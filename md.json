@@ -2,5 +2,6 @@
   "name": "Cryptopian",
   "description": "We are Cryptopian. Join our world of crypto insights on YouTube: https://www.youtube.com/@cryptopian-nation",
   "ticker": "CPTN",
-  "homepage": "https://cryptopian.world"
+  "homepage": "https://cryptopian.world",
+  "test": "a68d88d1bc4e7a5d58"
 }
